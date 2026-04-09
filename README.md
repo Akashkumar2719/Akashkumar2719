@@ -1,10 +1,10 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Akash+Kumar;+Full-+stack++developer;+mafia;+Juyari;+Open+source+contributor;+from+India❤️" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Akash+Kumar;+Full-+stack++developer;+Open+source+contributor;+from+India❤️" />
 </h1>
 
 <div align=center style="display: flex; align-items: center; justify-content:center;">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00A84C?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/akash-singh-a8a451366/) [![Gmail](https://img.shields.io/badge/Gmail-00A84C?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:akashsingh2059@gmail.com) [![X](https://img.shields.io/badge/X-00A84C?style=for-the-badge&logo=x&logoColor=ffffff)](https://www.x.com) [![Instagram](https://img.shields.io/badge/Instagram-00A84C?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://www.instagram.com/) [![Facebook](https://img.shields.io/badge/Facebook-00A84C?style=for-the-badge&logo=facebook&logoColor=ffffff)](https://www.facebook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00A84C?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/akash-singh-a8a451366/) [![Gmail](https://img.shields.io/badge/Gmail-00A84C?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:akashsingh2059@gmail.com)  [![Facebook](https://img.shields.io/badge/Facebook-00A84C?style=for-the-badge&logo=facebook&logoColor=ffffff)](https://www.facebook.com/share/17RwhyrwuK/?mibextid=wwXIfr)
 
 </div>
 
