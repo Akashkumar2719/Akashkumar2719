@@ -14,7 +14,7 @@ Hi, I'm **Akash Kumar**, a final-year Computer Science student with a passion fo
 
 <div align=center>
 
-[<== Visit my portfolio ==>](https://portfolio-beta-two-9lxatm6be1.vercel.app/)
+[<== Visit my portfolio ==>](https://akash-kumar-2026.vercel.app/)
 
 <br>
 
